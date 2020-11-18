@@ -1,4 +1,13 @@
-### Hi there 👋
+# 충북대학교 / 대학원 / 산업인공지능학과
+- 1학기 전공과목 
+-- (공통) 어프론티스 - 김미혜 교수님
+-- (선택) 지능형로봇 - 김곤우 교수님
+
+# 활동
+- 창의과제
+-- 주제 :
+- 교육
+-- MDS 인공지능 프로그램
 
 # [ 프로필 ]
 
@@ -7,14 +16,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmlim)
 
-[![gmail](https://travis-ci.com/simple-icons/simple-icons-font.svg?branch=develop)](https://travis-ci.com/simple-icons/simple-icons-font)
-
-[![gmail](atom.dmlim@gmail.com/simple-icons/simple-icons-font.svg?branch=develop)](atom.dmlim@gmail.com/simple-icons/simple-icons-font)
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-<!--
-**dmlim-cb/dmlim-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
