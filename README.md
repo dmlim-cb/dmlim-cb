@@ -1,8 +1,11 @@
 ## 충북대학교 / 대학원 / 산업인공지능학과
 - 1학기 전공과목 
-  - (공통) 어프런티스 - 김미혜 교수님
-    - (https://github.com/dmlim-cb/industrial-AI-master/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
-  - (선택) 지능로봇실제 - 김곤우 교수님
+  - (공통) 어프런티스 프로젝트 - 김미혜 교수님
+    - [어프런티스 프로젝트](https://github.com/dmlim-cb/industrial-AI-master/tree/master/projects/어프렌티스-프로젝트): 
+    - 문제해결방법론 교육 및 프로젝트 준비
+  - (선택) 지능로봇 실제 - 김곤우 교수님
+    - [지능로봇 실제](https://github.com/dmlim-cb/industrial-AI-master/tree/master/projects/지능로봇-실제): 
+    - 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
 
 ## 활동
 - 창의자율과제
