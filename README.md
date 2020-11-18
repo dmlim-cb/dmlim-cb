@@ -5,7 +5,7 @@
 # 연락처
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmlim)
 
 [![gmail](https://travis-ci.com/simple-icons/simple-icons-font.svg?branch=develop)](https://travis-ci.com/simple-icons/simple-icons-font)
 
