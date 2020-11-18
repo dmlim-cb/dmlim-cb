@@ -7,6 +7,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
+[![Build Status](https://travis-ci.com/simple-icons/simple-icons-font.svg?branch=develop)](https://travis-ci.com/simple-icons/simple-icons-font)
+
 <!--
 **dmlim-cb/dmlim-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
