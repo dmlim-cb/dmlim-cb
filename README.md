@@ -11,7 +11,7 @@
 
 [![gmail](atom.dmlim@gmail.com/simple-icons/simple-icons-font.svg?branch=develop)](atom.dmlim@gmail.com/simple-icons/simple-icons-font)
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 <!--
 **dmlim-cb/dmlim-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
