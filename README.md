@@ -8,6 +8,7 @@
 ## 활동
 - 창의자율과제
   - 주제 : 이동로봇에 대한 모니터링 시스템개발
+  - [AI고급과정-시각지능](https://github.com/dmlim-cb/industrial-AI-master/tree/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C)
 - 교육
   - [AI 고급과정 (시각지능))](https://github.com/dmlim-cb/industrial-AI-master/tree/master/Education/AI%20%EA%B3%A0%EA%B8%89%EA%B3%BC%EC%A0%95)
 
