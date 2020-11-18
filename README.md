@@ -10,6 +10,7 @@
   - 주제 : 이동로봇에 대한 모니터링 시스템개발
 - 교육
   - AI 고급과정(시각지능)
+  - [AI고급과정-시각지능](https://github.com/dmlim-cb/industrial-AI-master/tree/master/Education/AI%20%EA%B3%A0%EA%B8%89%EA%B3%BC%EC%A0%95): AI 고급과정 (시각지능)
 
 ## dmlim Github stats
 ![dmlim's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
