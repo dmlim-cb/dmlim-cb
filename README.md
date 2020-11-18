@@ -14,5 +14,6 @@
 
 ## Contacts
 
+- Github : [Github](http://github.com/dmlim-cb)
 - 이메일 : [dmlim:mail](mailto:dmlim@aimobility.io)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
+- 학과홈페이지 : [ind-AI](https://github.com/industrial-AI)
