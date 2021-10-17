@@ -5,7 +5,7 @@
   - (선택) 지능로봇 실제 - 김곤우 교수님
     - [지능로봇 실제](https://github.com/dmlim-cb/industrial-AI-master/tree/master/projects/지능로봇-실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
 
-## 활동
+## 활동 테스트
 - 창의자율과제
   - [01] [이동로봇에 대한 모니터링 시스템개발](https://github.com/dmlim-cb/industrial-AI-master/tree/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C)
 - 교육
